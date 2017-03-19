@@ -1,0 +1,10 @@
+## Interface: 70000
+## Version: 2.01
+## Title: |cffDA2820NoNoGoGo|r
+## Author: MightBeGiant
+## Notes: Easy ready checks and pull timers.
+## SavedVariables: NoNoGoGoDB
+## OptionalDeps: Ace3, AceGUI-3.0-SharedMediaWidgets, LibSharedMedia-3.0, LibWindow-1.1, LibDualSpec-1.0
+
+embeds.xml
+NoNoGoGo.lua
